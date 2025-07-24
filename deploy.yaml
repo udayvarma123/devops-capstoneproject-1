@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: udayvarma825/img1
+        image: udayvarma825/img2
         ports:
         - containerPort: 80
