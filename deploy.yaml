@@ -15,7 +15,7 @@ spec:
         app: apache
     spec:
       containers:
-      - name: nginx
-        image: udayvarma825/img2
+      - name: apache
+        image: udayvarma825/img:latest
         ports:
         - containerPort: 80
