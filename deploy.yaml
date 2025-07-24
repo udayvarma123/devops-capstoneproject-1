@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: apache
-        image: udayvarma825/img:latest
+        image: udayvarma825/img
         ports:
         - containerPort: 80
